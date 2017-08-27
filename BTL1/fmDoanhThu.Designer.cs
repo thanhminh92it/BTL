@@ -4,6 +4,7 @@
     {
         /// <summary>
         /// Required designer variable.
+        /// change code
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
